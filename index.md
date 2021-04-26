@@ -1,4 +1,5 @@
-<img width=100 src=https://dms.umontreal.ca/~mat1460/cal/H20/problemes/semaine3/jeudi/SS2109777.jpg>
+img width=1000 src=https://dms.umontreal.ca/~mat1460/cal/H20/problemes/semaine3/jeudi/SS2109777.jpg
+
 # Dynamique Proie-Prédateur
 
 You can use the [editor on GitHub](https://github.com/are-dynamic-2021-g6/Proie-Predateur/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
