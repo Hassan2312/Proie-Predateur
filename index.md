@@ -1,5 +1,4 @@
-<p align="center">
-  # Dynamique Proie-Prédateur
+# Dynamique Proie-Prédateur
 
 You can use the [editor on GitHub](https://github.com/are-dynamic-2021-g6/Proie-Predateur/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
