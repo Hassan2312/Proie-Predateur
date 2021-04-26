@@ -1,42 +1,22 @@
-img width=1000 src=https://dms.umontreal.ca/~mat1460/cal/H20/problemes/semaine3/jeudi/SS2109777.jpg
+![Image](https://images.radio-canada.ca/q_auto,w_1250/v1/ici-info/16x9/yukon-lynx-lievre.jpg)
 
-# Dynamique Proie-Prédateur
-
-You can use the [editor on GitHub](https://github.com/are-dynamic-2021-g6/Proie-Predateur/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/are-dynamic-2021-g6/Proie-Predateur/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Dynamique Lynx-Lièvre
 
 
-dfggfdfghjk
+### Semaine 1
+25 mars 2021
+
+Pourquoi les proies ne disparaissent pas?
+
+Quel est ce jeu de taux de croissance et de mortalité qui permet aux populations de proies et leurs prédateurs de demeurer inchangés?
+
+C'est avec ces idées en tête qu'on a commencé à chercher les méthodes utilisées pour modéliser le phénomène de prédation. Et sur Wikipedia on a découvert les fameuses équations de [Lotka-Volterra](https://fr.wikipedia.org/wiki/%C3%89quations_de_pr%C3%A9dation_de_Lotka-Volterra). C'est un couple d'équations différentielles qui prennent chacune en compte l'autre. C'est ce qui permet aux deux mondes d'évoluer interchangeablement, l'un en fonction de l'autre. Dont la forme la plus générale:
+
+![Image](https://wikimedia.org/api/rest_v1/media/math/render/svg/022e443557bb93a3a04b3bac125daeddbeba5def)
+
+
+Ensuite il nous fallait trouver un moyen pour convertir ces équations différentielles en code Python. Pour cela on a commencé à regarder des sites pour chercher une piste mais il y en avait plusieurs. Certains proposaient des fonctions déjà préparées par Matplotlib et NumPy mais dont la manipulation était trop à l'aise avec. On a décidé alors de partir avec la méthode la plus basique qui serait de calculer des différences (pour la dérivation). Mais on a decidee laisser ça pour la prochaine fois et déjà finir le carnet de bord.
+
+
+### Semaine 2
+8 avril 2021
