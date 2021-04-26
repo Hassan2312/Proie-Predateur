@@ -1,6 +1,5 @@
 <p align=center>
-## Dynamique Proie-Prédateur
-
+**Dynamique Proie-Prédateur
 You can use the [editor on GitHub](https://github.com/are-dynamic-2021-g6/Proie-Predateur/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
