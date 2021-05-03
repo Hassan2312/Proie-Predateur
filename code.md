@@ -1,14 +1,10 @@
     from matplotlib import pyplot as plt
     # x : Proies
     # y : Prédateurs
-    # Taux de reproduction proies
-    a = 1
-    # Taux de mortalité proies dû aux prédateurs
-    b = 0.1
-    # Taux de reproduction prédateurs
-    c = 0.1
-    # Taux de mortalité prédateurs naturel
-    d = 1
+    a = 1               # Taux de reproduction proies
+    b = 0.1             # Taux de mortalité proies dû aux prédateurs
+    c = 0.1             # Taux de reproduction prédateurs
+    d = 1               # Taux de mortalité prédateurs naturel
 
     # --- 1 ---
 
