@@ -37,9 +37,9 @@ On s'est rendu compte que les paramètres initiaux étaient intrinsèquement li�
 
 
 ## Bibliographie:
-https://fr.wikipedia.org/wiki/%C3%89quations_de_pr%C3%A9dation_de_Lotka-Volterra
-https://scipy-cookbook.readthedocs.io/items/LoktaVolterraTutorial.html
+[https://fr.wikipedia.org/wiki/%C3%89quations_de_pr%C3%A9dation_de_Lotka-Volterra]
+[https://scipy-cookbook.readthedocs.io/items/LoktaVolterraTutorial.html]
 
 ### Sources:
-https://images.radio-canada.ca                                                                                                     
-https://wikimedia.org
+[https://images.radio-canada.ca]
+[https://wikimedia.org]
