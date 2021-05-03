@@ -6,19 +6,4 @@ Pourquoi les proies ne disparaissent-elles pas?
 
 Quel est ce jeu de taux de croissance et de mortalité qui permet aux populations de proies et leurs prédateurs de demeurer inchangés?
 
-Vous pouvez suivre notre démarche ici:  [Blog](https://hassan2312.github.io/Proie-Predateur/Blog.html)
-
-Ou consulter notre code final ici:  [Modèle](https://hassan2312.github.io/Proie-Predateur/code.html)
-
-Jean-Louis Du
-
-Yusen Hu
-
-Hassan Osman
-
-MIPI 24.3B
-
-## Bibliographie:
-[Équations de prédation de Lotka-Volterra - Wikipédia](https://fr.wikipedia.org/wiki/%C3%89quations_de_pr%C3%A9dation_de_Lotka-Volterra)
-
-[Matplotlib: Lotka-Volterra tutorial](https://scipy-cookbook.readthedocs.io/items/LoktaVolterraTutorial.html)
+# [Blog](https://hassan2312.github.io/Proie-Predateur/Blog.html) • [Modèle](https://hassan2312.github.io/Proie-Predateur/code.html) • [Contact](https://hassan2312.github.io/Proie-Predateur/contact.html) • [Bibliographie](https://hassan2312.github.io/Proie-Predateur/bibliographie.html)
