@@ -25,6 +25,7 @@ Cette semaine on attaque la programmation des équations différentielles. On e
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lotka-Volterra_orbits_02.svg/1280px-Lotka-Volterra_orbits_02.svg.png)
 
+
 On s'est rendu compte que les paramètres initiaux étaient intrinsèquement liés et ne pouvaient pas être choisi au hasard au risque de l'extinction des proies suivie des prédateurs. Par exemple, si le taux de croissance des prédateurs était trop élevé face à celui des proies, la dynamique faisait faillite. On a donc déterminé une marge de valeurs qui marchaient propre à notre modèle.
 
 
@@ -40,5 +41,5 @@ https://fr.wikipedia.org/wiki/%C3%89quations_de_pr%C3%A9dation_de_Lotka-Volterra
 https://scipy-cookbook.readthedocs.io/items/LoktaVolterraTutorial.html
 
 ### Sources:
-https://images.radio-canada.ca
+https://images.radio-canada.ca                                                                                                     
 https://wikimedia.org
