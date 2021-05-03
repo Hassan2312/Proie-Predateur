@@ -6,8 +6,7 @@ Pourquoi les proies ne disparaissent-elles pas?
 
 Quel est ce jeu de taux de croissance et de mortalité qui permet aux populations de proies et leurs prédateurs de demeurer inchangés?
 
-:::python
-import numpy as np
+    import numpy as np
     
 
 ### Semaine 1
