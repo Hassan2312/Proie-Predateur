@@ -1,3 +1,4 @@
+# Modèle
     from matplotlib import pyplot as plt
     # x : Proies
     # y : Prédateurs
