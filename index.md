@@ -2,6 +2,11 @@
 
 # Dynamique Lynx-Lièvre
 
+On cherche a
+
+    :::python
+    import numpy as np
+    
 
 ### Semaine 1
 25 mars 2021
