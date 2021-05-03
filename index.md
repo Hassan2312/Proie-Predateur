@@ -2,18 +2,16 @@
 
 # Dynamique Lynx-Lièvre
 
-On cherche a
+Pourquoi les proies ne disparaissent-elles pas?
 
-    :::python
-    import numpy as np
+Quel est ce jeu de taux de croissance et de mortalité qui permet aux populations de proies et leurs prédateurs de demeurer inchangés?
+
+:::python
+import numpy as np
     
 
 ### Semaine 1
 25 mars 2021
-
-Pourquoi les proies ne disparaissent pas?
-
-Quel est ce jeu de taux de croissance et de mortalité qui permet aux populations de proies et leurs prédateurs de demeurer inchangés?
 
 C'est avec ces idées en tête qu'on a commencé à chercher les méthodes utilisées pour modéliser le phénomène de prédation. Et sur Wikipedia on a découvert les fameuses équations de [Lotka-Volterra](https://fr.wikipedia.org/wiki/%C3%89quations_de_pr%C3%A9dation_de_Lotka-Volterra). C'est un couple d'équations différentielles qui prennent chacune en compte l'autre. C'est ce qui permet aux deux mondes d'évoluer interchangeablement, l'un en fonction de l'autre. Dont la forme la plus générale:
 
