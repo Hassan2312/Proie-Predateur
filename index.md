@@ -6,7 +6,9 @@ Pourquoi les proies ne disparaissent-elles pas?
 
 Quel est ce jeu de taux de croissance et de mortalité qui permet aux populations de proies et leurs prédateurs de demeurer inchangés?
 
-[Blog](https://hassan2312.github.io/Proie-Predateur/Blog.html)        -       [Modèle](https://hassan2312.github.io/Proie-Predateur/code.html)
+Vous pouvez suivre notre demarche ici:  [Blog](https://hassan2312.github.io/Proie-Predateur/Blog.html)
+
+Ou consulter notre code final ici:  [Modèle](https://hassan2312.github.io/Proie-Predateur/code.html)
 
 Jean-Louis Du
 
