@@ -1,4 +1,4 @@
-# Modèle
+# Modèles
     from matplotlib import pyplot as plt
     # x : Proies
     # y : Prédateurs
@@ -7,7 +7,7 @@
     c = 0.1             # Taux de reproduction prédateurs
     d = 1               # Taux de mortalité prédateurs naturel
 
-    # --- 1 ---
+## Modèle 1: Prédation naturelle
 
     def courbeee(x, y, a, b, c, d, t):
         """ """
@@ -48,7 +48,7 @@
         plt.legend()
         plt.show()
 
-    # --- 2 ---
+## Modèle 2: Prédation avec modification de paramètres dans la boucle
 
     def courbeee2(x, y, a, b, c, d, t):
         """ """
@@ -109,7 +109,7 @@
         plt.legend()
         plt.show()
     
-    # --- 3 ---
+## Modèle 3: Prédation avec chasse extérieure
 
     def courbeee3(x, y, a, b, c, d, e, f, t):
         """ """
@@ -150,7 +150,7 @@
         plt.legend()
         plt.show()
     
-    # --- 4 ---
+## Modèle 4: Prédation avec cannibalisme (manque de proies)
 
     def courbeee4(x, y, a, b, c, d, k, t):
         """ Cannibalisme chez les prédateurs si pas assez de proies """
